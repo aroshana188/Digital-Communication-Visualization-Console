@@ -1,0 +1,9 @@
+../Core/Src/ili9341_parallel.c:70:20:WR_Strobe	4	static,ignoring_inline_asm
+../Core/Src/ili9341_parallel.c:76:20:Write_Bus	24	static
+../Core/Src/ili9341_parallel.c:86:20:Write_Cmd	16	static
+../Core/Src/ili9341_parallel.c:91:20:Write_Data	16	static
+../Core/Src/ili9341_parallel.c:96:6:TFT_Init	8	static
+../Core/Src/ili9341_parallel.c:167:13:SetWindow	24	static
+../Core/Src/ili9341_parallel.c:177:6:TFT_FillScreen	24	static
+../Core/Src/ili9341_parallel.c:185:6:TFT_DrawChar	40	static
+../Core/Src/ili9341_parallel.c:209:6:TFT_DrawString	48	static
