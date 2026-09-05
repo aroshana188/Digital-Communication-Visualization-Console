@@ -7,7 +7,7 @@
 *An interactive embedded hardware instrument engineered to visually map and demonstrate the fundamental mathematical abstractions of digital communication pipelines.*
 
 <p align="center">
-  <img src="images/power_pcb.jpg" width="40%" />
+  <img src="images/power_pcb.png" width="40%" />
 </p>
 
 ---
