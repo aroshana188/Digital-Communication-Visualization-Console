@@ -7,7 +7,7 @@
 *An interactive embedded hardware instrument engineered to visually map and demonstrate the fundamental mathematical abstractions of digital communication pipelines.*
 
 <p align="center">
-  <img src="images/final_product.jpeg" width="70%" />
+  <img src="images/final_product.jpeg" width="40%" />
 </p>
 
 ---
